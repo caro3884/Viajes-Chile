@@ -1,0 +1,46 @@
+body {
+    font-family: 'raleway';
+    background-color: black;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar,
+footer {
+    background-color: #17a3bc;
+}
+
+.card{
+    border: 1px solid #17a3bc ;
+    border-radius: 0.25rem !important;
+    min-height: 390px !important;
+}
+
+.separator-line {
+    color: #17a3bc;
+    opacity: 1;
+}
+
+.btn{
+    background-color: #17a3bc;
+    margin-top:24px;
+    margin-bottom: 42px;
+}
+
+.card img{
+    height: 195px;
+}
+.card,
+.icono1 {
+    background-color: #17a3bc;
+    color: white;
+}
+
+.footer{
+    height: 80px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
